@@ -14,12 +14,12 @@ window.SAKSHI_SITE = {
     },
 
     {
-      image: "../assets/images/sakshi-02.jpeg",
-      title: "The Smile That Stays",
-      compliment: "चांद रोज़ छत पर आकर इतराता बहुत था, कल रात मैंने भी उसे तेरी तस्वीर दिखा दी........!!!",
-      song: "Raataan Lambiyan",
-      credit: "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
-      embedUrl: "https://www.youtube.com/embed/gvyUuxdRdR4?autoplay=1&rel=0"
+  image: "../assets/images/sakshi-02.jpeg",
+  title: "The Smile That Stays",
+  compliment: "चांद रोज़ छत पर आकर इतराता बहुत था, कल रात मैंने भी उसे तेरी तस्वीर दिखा दी........!!!",
+  song: "Mahiye Jinna Sohna",
+  credit: "Darshan Raval",
+  embedUrl: "https://www.youtube.com/embed/D1G_jrSSEe4?start=35&autoplay=1&rel=0"
     },
 
     {
