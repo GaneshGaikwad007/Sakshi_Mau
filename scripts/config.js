@@ -23,30 +23,30 @@ window.SAKSHI_SITE = {
     },
 
     {
-      image: "../assets/images/sakshi-03.jpeg",
-      title: "Purple Grace",
-      compliment: "तेरे हुस्न को परदे की ज़रूरत ही क्या है, कौन होश में रहता है तुझे देखने के बाद…!!!",
-      song: "Tum Hi Ho",
-      credit: "Mithoon, Arijit Singh",
-      embedUrl: "https://www.youtube.com/embed/Umqb9KENgmk?autoplay=1&rel=0"
+  image: "../assets/images/sakshi-03.jpeg",
+  title: "Purple Grace",
+  compliment: "तेरे हुस्न को परदे की ज़रूरत ही क्या है, कौन होश में रहता है तुझे देखने के बाद…!!!",
+  song: "Sajna",
+  credit: "Darshan Raval, Dharal Surelia",
+  embedUrl: "https://www.youtube.com/embed/YkjOuYP8wjc?start=66&autoplay=1&rel=0"
     },
 
     {
-      image: "../assets/images/sakshi-04.jpeg",
-      title: "A Royal Moment",
-      compliment: "हम ने उस को इतना देखा जितना देखा जा सकता था, लेकिन फिर भी दो आँखों से कितना देखा जा सकता था.",
-      song: "Hawayein",
-      credit: "Pritam, Arijit Singh",
-      embedUrl: "https://www.youtube.com/embed/cYOB941gyXI?autoplay=1&rel=0"
+  image: "../assets/images/sakshi-04.jpeg",
+  title: "A Royal Moment",
+  compliment: "हम ने उस को इतना देखा जितना देखा जा सकता था, लेकिन फिर भी दो आँखों से कितना देखा जा सकता था.",
+  song: "KITAB",
+  credit: "Mr Dutt ft. Vipin Foji, Tanu Rawat",
+  embedUrl: "https://www.youtube.com/embed/1uypbHj8-Mk?start=17&autoplay=1&rel=0"
     },
 
     {
-      image: "../assets/images/sakshi-05.jpeg",
-      title: "Soft Maroon Magic",
-      compliment: "क्या एक लाइन में तारीफ तेरी लिखूं, जो देखे पानी भी तुझे तो प्यासा हो जाये।",
-      song: "Tera Ban Jaunga",
-      credit: "Akhil Sachdeva, Tulsi Kumar",
-      embedUrl: "https://www.youtube.com/embed/Qdz5n1Xe5Qo?autoplay=1&rel=0"
+  image: "../assets/images/sakshi-05.jpeg",
+  title: "Soft Maroon Magic",
+  compliment: "क्या एक लाइन में तारीफ तेरी लिखूं, जो देखे पानी भी तुझे तो प्यासा हो जाये।",
+  song: "Ve Haaniyaan",
+  credit: "Danny, Avvy Sra, Sagar",
+  embedUrl: "https://www.youtube.com/embed/E_SbwSe15y0?start=102&autoplay=1&rel=0"
     },
 
     {
