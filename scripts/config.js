@@ -5,6 +5,7 @@ window.SAKSHI_SITE = {
 
   gallery: [
     {
+      image: "../assets/images/sakshi-01.jpeg"
       title: "Sunshine in Yellow",
       compliment: "तुझं रूप चंद्रापेक्षा कमी नाही फक्त फरक एवढाच की चंद्रात ती जादू नाही.",
       song: "Sheesha",
