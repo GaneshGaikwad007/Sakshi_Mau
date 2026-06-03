@@ -6,7 +6,7 @@ A premium multi-page static birthday website with a password gate, Home, Gallery
 
 Open `index.html` in a browser, or serve the folder with any static server.
 
-Default password: `1506`
+Default password: `ask to sakshi`
 
 ## Customize
 
