@@ -5,12 +5,11 @@ window.SAKSHI_SITE = {
 
   gallery: [
     {
-      image: "../assets/images/sakshi-01.jpeg",
       title: "Sunshine in Yellow",
       compliment: "तुझं रूप चंद्रापेक्षा कमी नाही फक्त फरक एवढाच की चंद्रात ती जादू नाही.",
-      song: "Kesariya",
-      credit: "Pritam, Arijit Singh, Amitabh Bhattacharya",
-      embedUrl: "https://www.youtube.com/embed/BddP6PYo2gs?autoplay=1&rel=0"
+      song: "Sheesha",
+      credit: "Mitta Ror ft. Swara Verma",
+      embedUrl: "https://www.youtube.com/embed/aRNfSqsgrgE?start=90&autoplay=1&rel=0"
     },
 
     {
