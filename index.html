@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A private birthday experience for Sakshi.">
+  <title>Sakshi Birthday | Private Gate</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+<body data-page="gate">
+  <div class="loader"></div>
+  <div class="cursor-glow"></div>
+  <div class="hearts" aria-hidden="true">
+    <span style="--i:1"></span><span style="--i:2"></span><span style="--i:3"></span><span style="--i:4"></span><span style="--i:5"></span><span style="--i:6"></span><span style="--i:7"></span><span style="--i:8"></span><span style="--i:9"></span><span style="--i:10"></span><span style="--i:11"></span>
+  </div>
+  <main class="gate-page site-shell">
+    <form class="gate-card reveal" data-gate-form>
+      <span class="eyebrow">Only for Sakshi</span>
+      <h1><span class="gradient-text">A little secret</span></h1>
+      <p class="lead">Enter the date hidden in this story to open the birthday world made for you.</p>
+      <label class="sr-only" for="password">Password</label>
+      <input id="password" name="password" type="password" inputmode="numeric" placeholder="Password" autocomplete="off" required>
+      <p class="error" data-error></p>
+      <button class="button primary" type="submit">Unlock the surprise</button>
+    </form>
+  </main>
+  <script src="scripts/config.js"></script>
+  <script src="scripts/main.js"></script>
+</body>
+</html>

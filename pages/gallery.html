@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sakshi Birthday Gallery</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../styles/main.css">
+</head>
+<body data-page="gallery" data-theme="violet">
+  <div class="loader"></div>
+  <div class="cursor-glow"></div>
+  <div class="hearts" aria-hidden="true">
+    <span style="--i:1"></span><span style="--i:2"></span><span style="--i:3"></span><span style="--i:4"></span><span style="--i:5"></span><span style="--i:6"></span><span style="--i:7"></span><span style="--i:8"></span><span style="--i:9"></span><span style="--i:10"></span><span style="--i:11"></span>
+  </div>
+  <div class="site-shell">
+    <nav class="nav">
+      <a class="brand" href="home.html" data-nav>Sakshi | Mau</a>
+      <div class="nav-links">
+        <a href="home.html" data-nav>Home</a>
+        <a href="gallery.html" data-nav>Gallery</a>
+        <a href="messages.html" data-nav>Messages</a>
+        <a href="surprise.html" data-nav>Surprise</a>
+        <button type="button" data-logout>Lock</button>
+      </div>
+    </nav>
+    <main class="section">
+      <div class="section-header reveal">
+        <span class="eyebrow">Scroll slowly</span>
+        <h1><span class="gradient-text"> Every Memory Has a Melody 🎵</span></h1>
+        <p class="lead">💖 देवाने सौंदर्य, निरागसता आणि गोडवा यांची व्याख्या करायची ठरवली असती, तर कदाचित तुझ्यापेक्षा चांगलं उदाहरण त्यालाही सापडलं नसतं.
+तुझ्या एका स्मितहास्याने दिवस सुंदर होतो आणि तुझ्या आठवणीने संध्याकाळही खास वाटू लागते 💖</p>
+      </div>
+      <div class="gallery-layout">
+        <section data-gallery aria-label="Photo story gallery"></section>
+        <aside class="song-dock reveal" aria-label="Active song player">
+          <iframe data-song-player title="Active romantic song player" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+          <div class="song-meta">
+            <div>
+              <strong data-song-title>Song</strong>
+              <p data-song-credit>Credits</p>
+            </div>
+            <button class="button" type="button" data-mute-toggle>Mute</button>
+          </div>
+          <p class="song-note">Some browsers require one click before embedded music can autoplay. Use the player controls if a song opens paused.</p>
+          <a class="button" data-credit-link href="https://www.youtube.com" target="_blank" rel="noreferrer">Open song credit</a>
+        </aside>
+      </div>
+    </main>
+  </div>
+  <script src="../scripts/config.js"></script>
+  <script src="../scripts/main.js"></script>
+  <script src="../scripts/gallery.js"></script>
+</body>
+</html>
