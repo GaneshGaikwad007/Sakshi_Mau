@@ -62,27 +62,27 @@ window.SAKSHI_SITE = {
       image: "../assets/images/sakshi-07.jpeg",
       title: "Dreamy Teal",
       compliment: "कोई फूल अच्छा सा होता तो माली से मैं मंगवाता, खुद जो गुलाब है उसको क्या मैं गुलाब दू?",
-      song: "Apna Bana Le",
-      credit: "Sachin-Jigar, Arijit Singh",
-      embedUrl: "https://www.youtube.com/embed/ElZfdU54Cp8?autoplay=1&rel=0"
+      song: "Naam Tera",
+      credit: "Ndee Kundu, Mp Sega",
+      embedUrl: "https://www.youtube.com/embed/fEaF31ojyjQ?autoplay=1&rel=0&start=15"
     },
 
     {
       image: "../assets/images/sakshi-08.jpeg",
       title: "Quiet Poetry",
       compliment: "तेरी तारीफ में लफ्ज़ कम पड़ जाते हैं, तू मुस्कुरा दे तो मौसम बदल जाते हैं।",
-      song: "Shayad",
-      credit: "Pritam, Arijit Singh",
-      embedUrl: "https://www.youtube.com/embed/MJyKN-8UncM?autoplay=1&rel=0"
+      song: "Apna Bana Le",
+      credit: "Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya",
+      embedUrl: "https://www.youtube.com/embed/ElZfdU54Cp8?autoplay=1&rel=0&start=43"
     },
 
     {
-image: "../assets/images/sakshi-09.jpeg",
-title: "Forever Pretty",
-compliment: "उस किताब की तरह है, जिसे बार-बार पढ़ने का मन करता है.",
-song: "Yeh Reshmi Zulfein",
-credit: "Mohd. Rafi",
-embedUrl: "https://www.youtube.com/embed/Dn4GsnG0Jtc?autoplay=1&rel=0&start=20"
+      image: "../assets/images/sakshi-09.jpeg",
+      title: "Forever Pretty",
+      compliment: "उस किताब की तरह है, जिसे बार-बार पढ़ने का मन करता है.",
+      song: "Yeh Reshmi Zulfein",
+      credit: "Mohd. Rafi",
+      embedUrl: "https://www.youtube.com/embed/Dn4GsnG0Jtc?autoplay=1&rel=0&start=20"
     }
   ]
 };
