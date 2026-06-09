@@ -53,9 +53,9 @@ window.SAKSHI_SITE = {
       image: "../assets/images/sakshi-06.jpeg",
       title: "Sunlit Queen",
       compliment: "तुम इतने प्यार से कैसे मुस्कुरा लेते हो, कातिलाना हुस्न के साथ तुम कैसे शर्मा लेते हो?",
-      song: "Ranjha",
-      credit: "Jasleen Royal, B Praak, Romy",
-      embedUrl: "https://www.youtube.com/embed/V7LwfY5U5WI?autoplay=1&rel=0"
+      song: "Radha Radha",
+     credit: "Swapnil Bandodkar",
+     embedUrl: "https://www.youtube.com/embed/lGUuLgT2Jj4?autoplay=1&rel=0&start=183"
     },
 
     {
