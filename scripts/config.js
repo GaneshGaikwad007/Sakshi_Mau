@@ -77,12 +77,12 @@ window.SAKSHI_SITE = {
     },
 
     {
-      image: "../assets/images/sakshi-09.jpeg",
-      title: "Forever Pretty",
-      compliment: "उस किताब की तरह है, जिसे बार-बार पढ़ने का मन करता है.",
-      song: "Kaise Hua",
-      credit: "Vishal Mishra",
-      embedUrl: "https://www.youtube.com/embed/WWXm39leYew?autoplay=1&rel=0"
+image: "../assets/images/sakshi-09.jpeg",
+title: "Forever Pretty",
+compliment: "उस किताब की तरह है, जिसे बार-बार पढ़ने का मन करता है.",
+song: "Yeh Reshmi Zulfein",
+credit: "Mohd. Rafi",
+embedUrl: "https://www.youtube.com/embed/Dn4GsnG0Jtc?autoplay=1&rel=0&start=20"
     }
   ]
 };
